@@ -1,2 +1,2 @@
 # cousera-ml-classification
-Exercises for the [ml-classification course](https://www.coursera.org/learn/ml-classification) on Coursera.
+Exercises for the course [Machine Learning: Classification](https://www.coursera.org/learn/ml-classification) on Coursera.
